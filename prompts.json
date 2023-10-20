@@ -17,15 +17,15 @@
             "answer" : "Springfield"
         },
         {
-            "text" : "<p>What city this is in?</p><img style=\"display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/1280px-All_Gizah_Pyramids.jpg\" width=\"1053\" height=\"700\">", 
+            "text" : "<p>What city is this in?</p><img style=\"display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/1280px-All_Gizah_Pyramids.jpg\" width=\"1053\" height=\"700\">", 
             "answer" : "Cairo"
         },
         {
-            "text" : "<p>What city this is in?</p><img style=\"display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;\" src=\"https://media.nomadicmatt.com/historical-colloseum.jpg\" width=\"395\" height=\"231\">", 
+            "text" : "<p>What city is this in?</p><img style=\"display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;\" src=\"https://media.nomadicmatt.com/historical-colloseum.jpg\" width=\"395\" height=\"231\">", 
             "answer" : "Rome"
         },
         {
-            "text" : "<p>What city this is in?</p><img style=\"display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;\" src=\"https://media.nomadicmatt.com/historical-tajmahal.jpg\"  width=\"395\" height=\"231\">", 
+            "text" : "<p>What city is this in?</p><img style=\"display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;\" src=\"https://media.nomadicmatt.com/historical-tajmahal.jpg\"  width=\"395\" height=\"231\">", 
             "answer" : "Agra"
         }
 

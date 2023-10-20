@@ -27,6 +27,8 @@ function getRandomNoDuplicate(arr){
 
 function addFourChoices() {
     let answerCitiesIndices = [cityData.indexOf(currentQuestion.answer)];
+    
+    console.log(currentQuestion.answer);
 
     answerCitiesIndices[1] = getRandomInt(cityData.length);
     answerCitiesIndices[2] = getRandomInt(cityData.length);
@@ -49,10 +51,10 @@ function addFourChoices() {
     answerCitiesIndices.splice(ind4, 1);
 
     document.getElementById("answerPart").innerHTML = `
-            <input type="submit" value="${ans1}" onclick="submitClick(this)">
-            <input type="submit" value="${ans2}" onclick="submitClick(this)">
-            <input type="submit" value="${ans3}" onclick="submitClick(this)">
-            <input type="submit" value="${ans4}" onclick="submitClick(this)">
+            <input type="submit" value="${ans1}" onclick="submitClick(this)" class="button4">
+            <input type="submit" value="${ans2}" onclick="submitClick(this)" class="button4">
+            <input type="submit" value="${ans3}" onclick="submitClick(this)" class="button4">
+            <input type="submit" value="${ans4}" onclick="submitClick(this)" class="button4">
     `;
 }
 
@@ -97,6 +99,6 @@ function onStart(){
 function submitClick(answer){
     console.log(`Testing submit ${answer}`);
     score += 10;
-
+    document.getElementById("score").textContent = `Score: ${score}`;
     loadRandomQuestion();
 }
