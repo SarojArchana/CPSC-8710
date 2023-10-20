@@ -27,7 +27,51 @@
         {
             "text" : "<p>What city this is in?</p><img style=\"display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;\" src=\"https://media.nomadicmatt.com/historical-tajmahal.jpg\"  width=\"395\" height=\"231\">", 
             "answer" : "Agra"
-        }
+        },
+		{
+		
+		"text" : "<p> Which city was the center of the Renaissance and home to renowned artists like Leonardo da Vinci and Michelangelo?</p>",
+		"answer" : "Florence"
+		},
+		
+		{
+		
+		"text" : "<p> Which ancient city was buried under volcanic ash in 79 AD, preserving it for centuries?</p>",
+		"answer" : "Pompeii"
+		},
+		{
+		
+		"text" : "<p> Where did the first shots of the American Civil War occur in the USA?</p>",
+		"answer" : "Charleston"
+		},
 
+{
+		
+		"text" : "<p> Which city in the USA was the site of the famous Boston Tea Party?</p>",
+		"answer" : "Boston"
+		},
+		{
+		
+		"text" : "<p>In which city was the Declaration of Independence signed in 1776?</p>",
+		"answer" : "Philadelphia"
+		},
+		
+		{
+		
+		"text" : "<p>Which city is known for the historic event of the Alamo during the Texan Revolution?</p>",
+		"answer" : "San Antonio"
+		},
+		
+		{
+		
+		"text" : "<p>Which city in the USA was the site of the famous Wall Street Crash of 1929?</p>",
+		"answer" : "New York City"
+		},
+		
+		{
+		
+		"text" : "<p>Which city is known for the historic event of the Gold Rush in the mid-1800s?</p>",
+		"answer" : "San Francisco"
+		}
     ]
 }
